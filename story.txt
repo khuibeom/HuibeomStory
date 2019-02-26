@@ -1,0 +1,1 @@
+Dave was excited for the coming Hackathon. It's his second time joining and he had plannded out what he's going to make during the event. He is working with his classmates from AI course and he is going to make a AI program that solves 2048.
