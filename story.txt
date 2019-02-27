@@ -3,3 +3,5 @@ Dave was excited for the coming Hackathon. It's his second time joining and he h
 At first, Dave had absolutely no clue what he was going to make for the hackathon. He had no inspiration, and wasn't even planning on going even though the first hackathon was some of the most fun he has ever had in his entire life. Three weeks before the Hackathon, he spotted his 13 year old sister playing 2048 on her iPad. He asked her if she would let him play, and she did. He ended up playing for two hours. He was incredibly frustrated by the game because he couldn't figure out how to beat it, but he became obsessed, and he found he couldn't stop.
 
 This inspired Dave to take an AI course, and he is so excited to attend this hackathon. He meets with his partner every week to plan out what to do for the hackathon. Dave hopes that the hackathon will go well and enjoys attending hackathons. 
+
+Finally, Dave finished his AI program with him partner, and brought it to the Hackathon. Unfortunately, he didn't win a prize in that Hackthon. Even though Dave lost in the Hackathon, he didn't feel depressed about it. On the contrary, it made he be more fascinated by programing.
